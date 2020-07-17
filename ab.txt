@@ -1,0 +1,11 @@
+https://github.com/theengineeringworld/Python-data-science/blob/master/Tutorial%201%20Filtering%20and%20Selecting%20Data.ipynb
+https://towardsdatascience.com/introduction-to-statistics-e9d72d818745
+https://towardsdatascience.com/data-science-you-need-to-know-a-b-testing-f2f12aff619a
+https://nidhalios.github.io/AB-Testing-Trivago-post/
+https://medium.com/analytics-vidhya/a-b-testing-for-data-science-f1203e9503b6
+https://github.com/krishnaik06/T-test-an-Correlation-using-python
+https://towardsdatascience.com/the-art-of-a-b-testing-5a10c9bb70a4
+https://medium.com/@Linpingyu/how-to-do-a-b-test-using-python-a-case-study-from-udacity-3e72e9b1b8c2
+https://en.wikipedia.org/wiki/Bootstrapping_(statistics)
+Important 
+https://towardsdatascience.com/the-math-behind-a-b-testing-with-example-code-part-1-of-2-7be752e1d06f
